@@ -1,0 +1,231 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+nav
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgb(46, 45, 45);
+    padding: 12px 16px;
+}
+
+.div2
+{
+    width: 50%;
+    text-align: right;
+    
+}
+.div2 a
+{
+    margin-left: 10%;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 16px 14px;
+
+}
+.div1 a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 16px 14px;
+
+}
+
+.div2 a.back{
+    background-color: rgb(123, 123, 124);
+}
+.ser{
+    text-align: center;
+    border-radius: 14px;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(201, 199, 199);
+    
+}
+    .div2 a:hover{
+        background-color: rgb(97, 96, 96);
+    }
+
+    .div1 a:hover {
+           background-color: rgb(97, 96, 96);
+        }
+  
+  .container{
+    background-image: url("https://thumbs.dreamstime.com/b/dark-metal-room-background-grungy-as-64535489.jpg");
+     background-size: cover;
+     height: 400px;
+}
+
+.abs{
+    position: absolute;
+    display: flex;
+    padding: 10px;
+    margin-left: 900px;
+    margin-top: 65px;
+    background-color: rgba(255, 63, 5, 0.897); 
+    font-size: large;
+    color: rgb(2, 4, 7);
+
+   
+}
+
+ .content{
+    padding-top: 70px;
+    text-align: center;
+    color: aliceblue;
+    
+  
+}
+.but{
+    font-size:x-large;
+    background-color: rgba(248, 101, 4, 0.438);
+    shape-outside: margin-box;
+}
+
+.method{
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+}
+.demo1 img{
+    height: 80px;
+    }
+
+.demo2 img{
+    height: 80px;
+}
+
+.demo3 img{
+    height: 80px;
+}
+
+.demo4 img{
+    height: 80px;
+}
+
+.bas{
+    background-color: rgb(15, 15, 82);
+    color: aliceblue;
+    padding-bottom: 50px;
+    
+}
+
+.basic{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 50px;
+    margin: 50px;
+}
+
+.basic1{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    text-align: center;
+}
+
+.basic2 img{
+    height: 300px;
+}
+
+.foot1{
+    text-align: center;
+}
+
+.foot2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.foot1 h1{
+    color: blue;
+}
+
+.foot3 h2{
+    color: blue;
+}
+
+.foot{
+
+    padding-top: 50px;
+}
+
+.foot3 button{
+    float: right;
+    background-color: rgb(65, 65, 221);
+    color: aliceblue;
+}
+
+.test2 img{
+    height: 100px;
+}
+
+.test1{
+    text-align: center;
+}
+
+.test1 h1{
+    color: blue;
+}
+
+.test1 h4{
+    color: rgb(243, 56, 56);
+}
+
+.test2 {
+    text-align: center;
+    
+}
+
+.test{
+    padding: 30px;
+}
+
+.las{
+    background-color:rgb(15, 15, 82);
+}
+.last{
+    display: flex;
+    justify-content: space-evenly ;
+    color: aliceblue;
+    padding: 30px;
+}
+
+.last1 h2{
+    color: rgb(255, 102, 13);
+}
+
+.last2 h2{
+    color: rgb(255, 102, 13);
+}
+
+.last3 h2{
+    color: rgb(255, 102, 13);
+}
+.last4 h2{
+    color: rgb(255, 102, 13);
+}
+
+#right{
+    background-color: rgb(42, 108, 252);
+    float: right
+}
+
+.last1 a{
+    text-decoration: none;
+}
+
+.last3 a{
+    text-decoration: none;
+}
+
+
+
+
